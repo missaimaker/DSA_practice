@@ -48,8 +48,9 @@ Progress
 
 This repository is continuously updated as I solve new problems and revisit previous solutions for optimization and improvement.
 
-Connect With Me
 
+
+**Connect With Me:**
 Medhawi Niroula
 
 Computer Science Graduate, Texas Tech University
